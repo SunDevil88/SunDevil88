@@ -29,7 +29,7 @@ stack = {
 ---
 ## 🚀 Featured Projects
 
-### [dbt AI Doc Generator](https://github.com/SunDevil88/dbt-ai-doc-generator) ✨ NEW
+### [dbt AI Doc Generator](https://github.com/SunDevil88/dbt-AI-Document-Generator) ✨ NEW
 > AI-powered dbt documentation · Python · OpenAI API · GPT-4o
 - Built a Python script that **automatically generates dbt model and column descriptions** from SQL source code using GPT-4o
 - Eliminates manual `schema.yml` documentation — one command documents an entire dbt project
