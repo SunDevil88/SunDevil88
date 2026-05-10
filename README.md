@@ -47,7 +47,7 @@ stack = {
 
 ---
 
-### [Coravio — Revenue Intelligence Dashboard](https://github.com/SunDevil88/coravio-revenue-dashboard)
+### [Coravio — Revenue Intelligence Dashboard](https://github.com/SunDevil88/Coravio-Analytics-Revenue-Intelligence-Dashboard)
 > B2B SaaS revenue analytics · Python · Tableau Public · [Live Dashboard →](https://public.tableau.com/app/profile/jaya.krishna.medimpudi7688/viz/Coravio-RevenueIntelligenceDashboard/Dashboard)
 - Designed a **customer-month grain data model** mirroring the output of a `fct_mrr` dbt mart layer
 - Built synthetic dataset of **1,720 records** across 74 customers, 3 regions, and 3 plan tiers using Python
